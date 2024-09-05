@@ -9,7 +9,7 @@ import java.io.IOException;
 public class CSVToDatabase {
 
     public static void main(String[] args) {
-        String jdbcURL = "jdbc:mysql:;
+        String jdbcURL = "jdbc:mysql://localhost:3306/HumanAgePrediction";
         String username = "root";
         String password = "Munazza123@";
 
